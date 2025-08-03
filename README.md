@@ -1,2 +1,7 @@
-# inas-investing-v2
-Multipage Investing 
+# Inas Investing V2
+
+Features:
+- Gold tracking
+- Rebalancer
+- Alerts
+- Time lag drift
